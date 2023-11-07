@@ -1,6 +1,6 @@
 ### Hello, Robotics World!
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMasanoriUeda&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMasanoriUeda&layout=compact&show_icons=true&theme=onedark&count_private=true&hide=contribs,prs" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KUMasanoriUeda&theme=onedark&show_icons=ture" />
 </p>
 
