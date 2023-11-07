@@ -1,6 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMasanoriUeda)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 ### Hello, Robotics World!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMasanoriUeda&count_private=true)
+
 
 I'm Masanori Ueda belonging to Kanazawa University, College of Science and Engineering, School of Frontier Engineering, Robotics Mechatronics laboratory.
 
