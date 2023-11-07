@@ -1,7 +1,7 @@
 ## Hello, Robotics World!
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-blond-nine.vercel.app/api/top-langs/?username=KUMasanoriUeda&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats-blond-nine.vercel.app/api?username=KUMasanoriUeda&theme=onedark&show_icons=ture&count_private=true&hide=contribs,prs" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-blond-nine.vercel.app/api/top-langs/?username=KUMasanoriUeda&layout=compact&show_icons=true&theme=radical" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-blond-nine.vercel.app/api?username=KUMasanoriUeda&theme=neon&show_icons=ture&count_private=true&hide=contribs" />
 </p>
 
 
