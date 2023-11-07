@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, World!
+
+I'm Masanori Ueda, belonging to KKanazawa University, College of Science and Engineering, School of Frontier Engineering, Robotics Mechatronics laboratory.
 
 <!--
 **KUMasanoriUeda/KUMasanoriUeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
