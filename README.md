@@ -5,7 +5,7 @@
 </p>
 
 
-#### I'm **Masanori Ueda**, a fourth-year bachelor's degree student belonging to Robotics Mechatronics laboratory at Kanazawa University.
+#### I'm **Masanori Ueda**, a first-year master's degree student belonging to Robotics Mechatronics laboratory at Kanazawa University.
 
 I have been researching about robotics flexible gripper and studing ROS2. My interestings are robotics manipulation and machine learning.
 
